@@ -1,0 +1,12 @@
+{
+    "Subject": {
+        "Data": "test1",
+        "Charset": "utf-8"
+    },
+    "Body": {
+        "Text": {
+            "Data": "testing123",
+            "Charset": "utf-8"
+        }
+    }
+}
